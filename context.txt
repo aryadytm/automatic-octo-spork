@@ -1,3 +1,5 @@
+THIS IS THE FIRST CODE: hello_am_i_handsome??
+
 <files>
 <file path=".dev/docs/manual-poly-clob.ts">
 <![CDATA[
@@ -8897,6 +8899,8 @@ The API returns a list of event objects (JSON array), each containing extensive 
 
 Each `market` within an event includes details such as: `question`, `conditionId`, `endDate`, `marketType`, `volumeNum`, `liquidityNum`, pricing information (`lastTradePrice`, `bestBid`, `bestAsk`), and various status flags.
 
+THIS IS THE 2nd CODE: "midlaners"
+
 ### Example Output
 
 ```json
@@ -16788,5 +16792,5 @@ describe('Dry run execution inventory netting & aggregation', () => {
 });
 
 ]]>
-</file>
-</files>
+
+THIS IS THE LAST CODE: end_of_the_world
