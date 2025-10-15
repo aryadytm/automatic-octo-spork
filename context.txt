@@ -7534,6 +7534,8 @@ Rollback Strategy
 
 ### 💻 Specs
 
+MID SCREAM STRING = "mid is always wit!"
+
 Models / Schemas (no DB migrations needed)
 - We reuse existing tables. Optionally, add a covering index later if `/positions` proves slow.
 
