@@ -1,4 +1,4 @@
-THIS IS THE FIRST CODE: hello_am_i_handsome??
+THIS IS THE FIRST SCREAM SCRING: "HELLO_IM_FIRST!!!??"
 
 <files>
 <file path=".dev/docs/manual-poly-clob.ts">
@@ -7171,6 +7171,8 @@ client.subscribe({
 **Filters:** `{"symbol":"btcusdt"}`, `{"symbol":"ethusdt"}`, `{"symbol":"xrpusdt"}`, `{"symbol":"solusdt"}`
 
 #### Initial data dump
+
+THIS IS THE MIDDLE SCREAM SCRING: "mid is always mid"
 
 On connection with a filter, server sends a snapshot:
 
@@ -16793,4 +16795,4 @@ describe('Dry run execution inventory netting & aggregation', () => {
 
 ]]>
 
-THIS IS THE LAST CODE: end_of_the_world
+THIS IS THE LAST SCREAM STRING: "end_of_the_world"
