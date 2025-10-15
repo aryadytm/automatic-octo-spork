@@ -1,4 +1,4 @@
-THIS IS THE FIRST SCREAM SCRING: "HELLO_IM_FIRST!!!??"
+THIS IS THE FIRST SCREAM STRING: "HELLO_IM_FIRST!!!??"
 
 <files>
 <file path=".dev/docs/manual-poly-clob.ts">
